@@ -112,4 +112,15 @@ TIM2 by default has clock of 84MHz, Here, we must set value of prescaler and per
 void TIM2_IRQHandler(void)//TIM2 interrupt function
 void USART1_IRQHandler(void)//USART1 interrupt function
  
+ OUTPUT:
+		Girilen Anahtar)x8:9474B8E8C73BCA7D
+		DES sifre Cozumlemesi(Ecrypt):8da744e0c94e5e17
+		Triple-DES sifre Cozumlemesi(Ecrypt):45347c5c9f224d36
+		
+		3-DES Decrypt
+		DES sifre Cozumlemesi(Decrypt):9474b8e8c73bca7d 
+		Triple-DES sifre Cozumlemesi(Decrypt):9474b8e8c73bca7d
+ 
+ 
+ 
 ``` @Keil uVision5 2.9.19
